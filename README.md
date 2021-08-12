@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielotuo
-- 👀 I’m interested in Cloud solutions and building products that provide value
-- 🌱 I’m currently learning presales
+- 👀 I’m a software and cloud engineer building products that provide value
+-
 -
 - 📫 How to reach me ... danielotuoach@gmail.com
 
