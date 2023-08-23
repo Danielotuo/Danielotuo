@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Danielotuo
-- 👀 I’m a software and cloud engineer building and architecting meaningful solutions
--
+- 👀 I’m a cloud & data engineer
 -
 - 📫 How to reach me ... danielotuoach@gmail.com | @danielotuo_
 
