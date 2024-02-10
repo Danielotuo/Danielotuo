@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danielotuo
-- 👀 I’m a cloud/software engineer
+- 👀 I’m a cloud/software/data engineer
 -
 - 📫 How to reach me ... daniotuo@gmail.com | @danielotuo_
 
