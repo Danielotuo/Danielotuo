@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Danielotuo
-- 👀 I’m a software engineer
 -
 - 📫 How to reach me ... daniotuo@gmail.com | @danielotuo_
 
